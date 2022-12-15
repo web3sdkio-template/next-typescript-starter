@@ -8,8 +8,8 @@ npx web3sdkio create --template next-typescript-starter
 
 You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
 
-On `pages/_app.tsx`, you'll find our `Web3sdkioProvider` wrapping your app, this is necessary for our [hooks](https://portal.web3sdk.io/react) and
-[UI Components](https://portal.web3sdk.io/ui-components) to work.
+On `pages/_app.tsx`, you'll find our `Web3sdkioProvider` wrapping your app, this is necessary for our [hooks](https://docs.web3sdk.io/react) and
+[UI Components](https://docs.web3sdk.io/ui-components) to work.
 
 ### Deploy to IPFS
 
@@ -32,4 +32,4 @@ You can check out [the web3sdkio GitHub organization](https://github.com/web3sdk
 
 ## Join our Discord!
 
-For any questions, suggestions, join our discord at [https://discord.gg/web3sdkio](https://discord.gg/web3sdkio).
+For any questions, suggestions, join our discord at [https://discord.gg/n33UhsfUKB](https://discord.gg/n33UhsfUKB).
